@@ -3,6 +3,8 @@ This is an simple openGL aplication writen in c language with a farmer that plan
 The application has a rigth click menu that allows you to do some other things like move some parts of the avatar and show a dancing animation performed by the farmer. To more infromations you can read a summary report that is in the repository.
 This report  was written in brasilian portuguese using LaTex. To compile this project is necessary the language c standard librarys, glu and glut library from openGL and SOIL library that can be find here http://www.lonesock.net/soil.html.
 
+All the code is in `projetofinal.c`
+
 Some images from openGL-farmer:
 
 ![Screenshot](image3.png)
